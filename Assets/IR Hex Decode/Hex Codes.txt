@@ -1,0 +1,19 @@
+NEC Protocol
+
+TV Power:
+40BFA05F
+
+STB Power:
+11D9D02F
+
+Channel Up:
+11D9CE31
+
+Channel Down:
+11D92ED1
+
+Volume Up:
+11D98E71
+
+Volume Down:
+11D94EB1
