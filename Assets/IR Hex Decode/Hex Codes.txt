@@ -1,4 +1,6 @@
-NEC Protocol
+!! Important Note !!
+These Hex codes are subject to change and are unique to every remote and TV. Please use Arduino/NodeMCU to decode the codes for your own remote.
+
 
 TV Power:
 40BFA05F
