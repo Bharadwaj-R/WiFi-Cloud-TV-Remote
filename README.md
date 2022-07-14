@@ -1,5 +1,5 @@
 # WiFi Cloud TV Remote
-### Controlling a Set-top-box based TV over the cloud with NodeMCU and Arduino Cloud  
+### Controlling a TV over the cloud with NodeMCU and Arduino Cloud  
 
 ***Overview :***  
 The main aim behind this project is to create a TV remote by using a NodeMCU and associating it with Arduino Cloud. The main advantage of this project is that it can work on any Android/iOS/PC device, which has active internet connection, overcoming the necessity to have an IR blaster built-in into the smartphone.  
