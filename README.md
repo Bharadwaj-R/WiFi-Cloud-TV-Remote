@@ -8,6 +8,7 @@ The main aim behind this project is to create a TV remote by using a NodeMCU and
 - NodeMCU - ESP8266
 - IR Receiver - TSOP1738
 - IR LED Transmitter
+- Resistor - 1k Ohm
 - Breadboard  
 <br/>
 
